@@ -3,4 +3,4 @@ uvicorn
 yt-dlp
 pydantic
 moviepy
-resquestiments
+resquirements
